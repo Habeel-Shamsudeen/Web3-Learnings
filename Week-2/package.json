@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@noble/ed25519": "^2.1.0",
+    "@solana/web3.js": "^1.95.3",
+    "ethers": "^6.13.2",
+    "tweetnacl": "^1.0.3"
+  }
+}
